@@ -12,6 +12,18 @@
 
 ---
 
+## Aperçu
+
+<div align="center">
+
+| Overlay live | Panneau de réglages |
+|:---:|:---:|
+| ![Overlay](https://i.ibb.co/DfzzJfDc/Capture-d-cran-2026-06-01-031106.png) | ![Réglages](https://i.ibb.co/79XgH91/Capture-d-cran-2026-06-01-031112.png) |
+
+</div>
+
+---
+
 ## Description
 
 Macro de boucle de courses pour **Forza Horizon 6**.  
