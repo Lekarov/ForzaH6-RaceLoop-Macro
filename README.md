@@ -142,6 +142,6 @@ La configuration est sauvegardée automatiquement dans :
 
 <div align="center">
 
-Développé par **Pestovich** · 🎮 [twitch.tv/Pestovich](https://twitch.tv/Pestovich)
+Développé par **Pestovich**
 
 </div>
