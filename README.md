@@ -7,8 +7,11 @@
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![pynput](https://img.shields.io/badge/pynput-keyboard%20automation-FF6B35?style=flat-square)
+![Status](https://img.shields.io/badge/status-archived-lightgrey?style=flat-square)
 
 </div>
+
+> ⚠️ **Projet non maintenu / arrêté.** Abonnement Xbox résilié — plus d'accès à Forza Horizon 6, donc plus de développement ni de support prévu sur ce projet. Le code reste public tel quel, à toutes fins utiles.
 
 ---
 
@@ -18,7 +21,7 @@
 
 | Overlay live | Panneau de réglages |
 |:---:|:---:|
-| ![Overlay](https://i.ibb.co/DfzzJfDc/Capture-d-cran-2026-06-01-031106.png) | ![Réglages](https://i.ibb.co/79XgH91/Capture-d-cran-2026-06-01-031112.png) |
+| ![Overlay](screenshots/overlay.png) | ![Réglages](screenshots/settings.png) |
 
 </div>
 
